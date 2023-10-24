@@ -223,7 +223,7 @@ hr {
     position: fixed;
   }
 
-/*  Larger screen styling  Horizontal menu */
+/*  Larger screen styling  Horizontal menu-------------------------*/
 
 @media (min-width: 768px) {
     .menu-toggle,
@@ -308,6 +308,8 @@ body::-webkit-scrollbar-thumb {
   border-radius: 20px;       /* roundness of the scroll thumb */
   border: 3px solid #1C72A1;  /* creates padding around scroll thumb */
 }
+
+/*Grid-----------------------------------------------*/
 
 .grid {
   display: grid;
